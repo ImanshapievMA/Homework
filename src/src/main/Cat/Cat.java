@@ -54,6 +54,9 @@ public class Cat {
             System.out.println(k + "*" + t + "=" + t * k);
 
         }
+        for (int i = 0; i < 2; i++){
+            System.out.println(i + "apple");
+        }
         }
 
     }
