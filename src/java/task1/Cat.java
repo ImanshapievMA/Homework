@@ -1,4 +1,4 @@
-package src.main.Cat;
+package java.task1;
 
 public class Cat {
     private static String year1;
@@ -58,5 +58,6 @@ public class Cat {
             System.out.println(i + "apple");
         }
         }
+
 
     }
