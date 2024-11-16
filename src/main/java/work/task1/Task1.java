@@ -1,9 +1,13 @@
-package java.task1;
+package work.task1;
+
+import static work.task2.Task2.circle;
+
 
 public class Task1 {
     private static String year1;
 
     public static void main(String[] args) {
+        circle();
         System.out.println ("Dagestan, Dagestan, Dagestan");
         System.out.println("Priora, Priora,Priora");
         int Java = 30;
