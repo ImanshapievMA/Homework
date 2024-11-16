@@ -1,6 +1,6 @@
 package java.task1;
 
-public class Cat {
+public class Task1 {
     private static String year1;
 
     public static void main(String[] args) {
