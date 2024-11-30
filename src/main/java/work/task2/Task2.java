@@ -7,4 +7,13 @@ public class Task2 {
         System.out.println("Parmezan " + f);
     }
     }
+    public static void circle1() {
+        int t = 0;
+        while (t <= 1) {
+            System.out.println("Rakfor " + t);
+            t += 1;
+
+
+        }
+    }
 }
